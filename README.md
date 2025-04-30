@@ -44,8 +44,8 @@ This project is a **Thrust Test Rig with IoT capabilities** that measures and mo
 This project is open-source under the **MIT License**.
 
 ## Diagram
-https://github.com/maaxone098/Thrust-Test-Rig-with-IOT/blob/main/Diagram%202.jpg
+https://github.com/sundar-sh18/Thrust-Test-Rig-with-IOT/blob/main/Diagram%202.jpg
 
 ## Output
-https://github.com/maaxone098/Thrust-Test-Rig-with-IOT/blob/main/Output%202.jpg
+https://github.com/sundar-sh18/Thrust-Test-Rig-with-IOT/blob/main/Output%202.jpg
 
